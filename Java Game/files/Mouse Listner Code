@@ -1,0 +1,31 @@
+if (KeyCode == 65) {
+ 	print ("files/GoodImagefacingleft.png");
+ 	repaint();
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Questions 
+ - Sound
+ - Mouse listener to shoot (change from space bar)
+ - Have character/good guy rotate to point at mouse,
+ - Have projectile aim at mouse, and go towards mouse
+ - Rotate character/flip image when going left and right.
